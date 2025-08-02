@@ -45,7 +45,7 @@ Initial checks involved removing null values and duplicates, and standardizing f
 ## Executive Summary
 ### Overview of Findings
 The dataset includes over 170 product offerings from all brands combined, representing a comprehensive view of the plant-based dairy sector in India. These products span multiple animal product alternatives, including milk, paneer, curd, and cheese. 
-Milk emerges as the most popular product, while there are notable price differences in certain categories, particularly butter. The data also indicates that most brands focus on a few star products, as fewer than five brands have more than two offerings in their portfolio.
+Milk emerges as the most popular product, while there are notable price differences in certain categories, particularly butter. The data also indicates that most brands focus on a few star products, as nine brands have more than two offerings in their portfolio.
 
 ## Insights Deep Dive
 ### Most Common Product
