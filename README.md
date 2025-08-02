@@ -56,7 +56,8 @@ Milk emerges as the most popular product, while there are notable price differen
 -Milk serves as the entry point for consumers transitioning to plant-based diets, making it the most commercially viable product for companies to prioritize. 
 -Strong focus on milk suggests that the sector is building its foundation on the product with the highest everyday relevance and consumer acceptance.
 
-<img width="465" height="389" alt="image" src="https://github.com/user-attachments/assets/55646ab8-830e-4c72-9386-4ceaaa9980e2" />
+<img width="862" height="719" alt="image" src="https://github.com/user-attachments/assets/7cb8f6e9-92d5-4b04-95ce-11e7b1426c96" />
+
 
 ### Distinct Product Offerings
 
@@ -64,5 +65,20 @@ Milk emerges as the most popular product, while there are notable price differen
 - Many brands are still in the early stages of development, choosing to establish a strong identity and consumer base around one core product before diversifying into additional plant-based dairy alternatives.
 
 <img width="793" height="486" alt="image" src="https://github.com/user-attachments/assets/3913ad92-1727-4e48-be13-5e8cd8e593c9" />
+
+### Pricing Insights
+
+The pricing analysis reveals significant differences across plant-based dairy product categories.  
+
+- **Wide price range for cheese and butter:** Cheese shows the largest gap between minimum and maximum prices, with some premium brands pricing their products far higher than competitors. Butter also exhibits a notable spread, reflecting differing brand strategies and ingredient choices.  
+- **Milk remains relatively consistent:** Plant-based milk has one of the narrowest price ranges, suggesting a more standardized market with less variation across brands.  
+- **Premium positioning for certain products:** Ice cream and paneer have moderate to high price ranges, but average prices indicate that many brands are aiming for mid- to high-end consumers in these categories.  
+- **High variability in butter pricing:** The data highlights that butter, in particular, shows the greatest inconsistency in price per kg/L, pointing to a lack of pricing benchmarks and different approaches to formulation and marketing.
+
+These findings suggest that while some categories, like milk, are stabilizing with competitive pricing, others — notably cheese and butter — remain niche, premium-oriented offerings with significant pricing diversity.
+
+<img width="784" height="472" alt="image" src="https://github.com/user-attachments/assets/b39efb8d-4040-41eb-a47c-92f9ebe85a1f" />
+<img width="774" height="472" alt="image" src="https://github.com/user-attachments/assets/88ed5436-9561-4a9c-bd3c-3d9d16c34fc3" />
+
 
 
