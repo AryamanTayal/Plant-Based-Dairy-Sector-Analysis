@@ -80,5 +80,13 @@ These findings suggest that while some categories, like milk, are stabilizing wi
 <img width="784" height="472" alt="image" src="https://github.com/user-attachments/assets/b39efb8d-4040-41eb-a47c-92f9ebe85a1f" />
 <img width="774" height="472" alt="image" src="https://github.com/user-attachments/assets/88ed5436-9561-4a9c-bd3c-3d9d16c34fc3" />
 
+## Recommendations
+
+- **Diversify product portfolios:** Most brands currently focus on a single flagship product, often plant-based milk. Expanding into other categories like yogurt, paneer, or butter could help capture a wider consumer base.  
+
+- **Address pricing gaps in premium categories:** Products such as cheese and butter show large price variations. Establishing more consistent pricing or offering tiered product ranges could improve accessibility.  
+
+- **Focus on consumer education:** Since milk is the most common product, brands could use it as a gateway to introduce customers to other plant-based options through bundled offerings, recipes, or awareness campaigns.  
+
 
 
