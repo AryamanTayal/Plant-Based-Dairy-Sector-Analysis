@@ -1,6 +1,3 @@
-# Plant-Based-Dairy-Sector-Analysis
-Analyzing the various product offerings in Plant-based dairy sector in India
-
 # Plant-Based Dairy Sector Analysis – India
 
 This project analyzes data from the plant-based dairy sector in India, covering key details on brands, the types of animal product alternatives they offer, pricing structures, and their distinct product lines. The objective is to understand the current market landscape and highlight notable patterns within the sector.
@@ -44,5 +41,9 @@ Initial checks involved removing null values and duplicates, and standardizing f
 <img width="681" height="364" alt="image" src="https://github.com/user-attachments/assets/590d0ba2-eea9-4cf9-8763-aa1ac18006b2" />
 
 <img width="1349" height="642" alt="image" src="https://github.com/user-attachments/assets/160cffe7-ee84-4c19-a675-f3b1e81f7f51" />
+
+## Executive Summary
+### Overview of Findings
+The dataset includes over 170 product offerings from all brands combined, representing a comprehensive view of the plant-based dairy sector in India. These products span multiple animal product alternatives, including milk, paneer, curd, and cheese. The analysis provides an overview of how these offerings are distributed across categories, highlighting the diversity and growth within this emerging market.
 
 
