@@ -43,3 +43,6 @@ Initial checks involved removing null values and duplicates, and standardizing f
 
 <img width="681" height="364" alt="image" src="https://github.com/user-attachments/assets/590d0ba2-eea9-4cf9-8763-aa1ac18006b2" />
 
+<img width="1349" height="642" alt="image" src="https://github.com/user-attachments/assets/160cffe7-ee84-4c19-a675-f3b1e81f7f51" />
+
+
