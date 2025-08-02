@@ -39,6 +39,6 @@ The dataset consists of a single table, with the following columns:
 - Positioning  
 - Claims  
 
-Initial checks involved reviewing the completeness of these fields, identifying missing or inconsistent entries, and standardizing formats for variables like weights, claims, and brand names before proceeding with the analysis.
+Initial checks involved removing null values and duplicates, and standardizing formats for variables like weights, claims, and brand names before proceeding with the analysis.
 <img width="681" height="364" alt="image" src="https://github.com/user-attachments/assets/590d0ba2-eea9-4cf9-8763-aa1ac18006b2" />
 
